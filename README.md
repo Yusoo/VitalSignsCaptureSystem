@@ -2,8 +2,6 @@
 
 简体中文 | [English](./README.en.md)
 
-Patient Vital Signs Data Collection System
-
 ## 简介
 
 该系统能够从医院的各种监测设备（如麻醉机、监护仪等）中采集病人的生命体征数据，并向第三方应用系统提供生命体征数据的查询服务。
@@ -39,8 +37,8 @@ Patient Vital Signs Data Collection System
 
 ## 链接
 
-[HL7 协议](https://www.hl7.org)
-
 [VitalSignsCaptureSystem](https://github.com/Yusoo/VitalSignsCaptureSystem)
 
 [病人生命体征数据采集系统](https://yusoo.github.io/VitalSignsCaptureSystem/)
+
+[HL7 协议](https://www.hl7.org)
